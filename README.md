@@ -1,0 +1,1 @@
+# effective-study-document
