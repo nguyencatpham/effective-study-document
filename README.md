@@ -7,7 +7,7 @@
 * Chia ra làm nhiều chặng, hoàn thành mỗi chặng có phần thưởng, điểm -> dùng điểm cá độ đá banh, 
 * Kỳ vọng: Tạo động lực học và giữ tần suất học
 # Học đoạn hội thoại
-- Máy sẽ đóng vai trò là người hỏi và bạn sẽ là người trả lời hoặc hỏi lại máy bằng cách chọn đáp án, thường có từ 1-3 đáp án. 
+- Máy sẽ đóng vai trò là người hỏi và bạn sẽ là người trả lời hoặc hỏi lại máy bằng cách chọn đáp án, thường có từ 1-3 đáp án. Máy hỏi và bạn trả lời hoặc máy trả lời và bạn hỏi là 1 block. 1 block có thời gian được tính theo từ, ví dụ block 1 có 30 từ sẽ có time là 30s. Sau 30s bạn mới được quyền trả lời câu tiếp theo.s
 Ví dụ: Máy hỏi What's your name? sẽ có 3 đáp án: 
     1.My name is Oz  
     2.I am Oz
