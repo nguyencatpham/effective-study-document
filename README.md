@@ -1,3 +1,10 @@
+* If you can teach smart people to be become better - Your are a good teacher.
+* If you can teach everyone to be become better - Your are their life saver.
+# Study Vocabulary
+- By Jew method, We will study by topic, every topic have a milestone, time for each milestone is 30,n time you will archive n*x point.
+# Study sample sentence
+- Learn how to answer some question 
+-----------------------------------------------------------------------------
 * Nếu bạn dạy những người giỏi trở nên giỏi hơn - bạn là một giáo viên giỏi,
 * Nếu bạn dạy những người chưa giỏi trở nên giỏi - bạn là vị cứu tinh của cuộc đời người đó.
 # Học từ vựng
@@ -7,8 +14,10 @@
 * Chia ra làm nhiều chặng, hoàn thành mỗi chặng có phần thưởng, điểm -> dùng điểm cá độ đá banh, 
 * Kỳ vọng: Tạo động lực học và giữ tần suất học
 # Học đoạn hội thoại
-- Máy sẽ đóng vai trò là người hỏi và bạn sẽ là người trả lời hoặc hỏi lại máy bằng cách chọn đáp án, thường có từ 1-3 đáp án. Máy hỏi và bạn trả lời hoặc máy trả lời và bạn hỏi là 1 block. 1 block có thời gian được tính theo từ, ví dụ block 1 có 30 từ sẽ có time là 30s. Sau 30s bạn mới được quyền trả lời câu tiếp theo.s
+- Máy sẽ đóng vai trò là người hỏi và bạn sẽ là người trả lời hoặc hỏi lại máy bằng cách chọn đáp án, thường có từ 1-3 đáp án. Máy hỏi và bạn trả lời hoặc máy trả lời và bạn hỏi là 1 block. 1 block có thời gian được tính theo từ, ví dụ block 1 có 30 từ sẽ có time là 30s. Sau 30s bạn mới được quyền trả lời câu tiếp theo.ss
 Ví dụ: Máy hỏi What's your name? sẽ có 3 đáp án: 
     1.My name is Oz  
     2.I am Oz
     3.Everyone call me is Oz
+# Phân biệt từ được cho là đồng nghĩa
+- Phân biệt từ mà bạn cho là đồng nghĩa. Ví dụ study và learn
