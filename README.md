@@ -10,6 +10,9 @@ Example: The phone asked you: (have 3 answers):
  + 1. My Name is Oz
  + 2. I am Oz
  + 3. Everyone call me is Oz
+ # Learn discrimination 
+ - Learn discrimination bettwen two words you think them are right
+ Example: Study and Learn
 -----------------------------------------------------------------------------
 * Nếu bạn dạy những người giỏi trở nên giỏi hơn - bạn là một giáo viên giỏi,
 * Nếu bạn dạy những người chưa giỏi trở nên giỏi - bạn là vị cứu tinh của cuộc đời người đó.
